@@ -3,6 +3,10 @@
 
 I use these scripts in Hyprland with Mako to flash my leds when I get notifications from certain apps, instead of onscreen.  
 
+### Dependencies for these scripts are:  
+- jq  
+- socat  
+
 ## Copy these files to ~/.config/hypr/scripts/
 
 ### Add to mako config:
